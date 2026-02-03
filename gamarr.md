@@ -16,12 +16,14 @@ dateCreated: 2025-02-02T00:00:00.000Z
 # Getting Started
 
 - [<i class="fas fa-plus-square"></i>&emsp;Installation Guide](/gamarr/installation)
+- [<i class="fas fa-book-open"></i>&emsp;Quick Start Guide](/gamarr/quick-start-guide)
 - [<i class="far fa-question-circle"></i>&emsp;FAQ](/gamarr/faq)
 {.links-list}
 
 # User Guide
 
 - [<i class="fas fa-play"></i>&emsp;Library](/gamarr/library)
+- [<i class="fas fa-calendar-alt"></i>&emsp;Calendar](/gamarr/calendar)
 - [<i class="fas fa-clock"></i>&emsp;Activity](/gamarr/activity)
 - [<i class="fas fa-cogs"></i>&emsp;Settings](/gamarr/settings)
 - [<i class="fas fa-laptop"></i>&emsp;System](/gamarr/system)
